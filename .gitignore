@@ -1,0 +1,7 @@
+dataset/*.csv
+cleaned_all_years.csv
+/venv
+
+# Python/Jupyter
+.ipynb_checkpoints/
+__pycache__/
